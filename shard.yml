@@ -1,0 +1,10 @@
+name: channeled_pipe
+version: 0.1.0
+
+authors:
+  - Yacine Petitprez <anykeyh@gmail.com>
+
+description: |
+  An IO pipe which uses channel
+
+license: MIT
